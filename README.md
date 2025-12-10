@@ -49,26 +49,31 @@ More projects coming soon as I explore & learn more.
 I am consistently practicing DSA to build strong problem-solving skills.
 
 <p align="center">
-  <a href="https://leetcode.com/u/gurkiratjap/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  <a href="https://leetcode.com/u/gurkiratsingh7/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
   </a>
 </p>
+
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gurkiratjap/">
+  <a href="www.linkedin.com/in/gurkirat-singh-lohat-96aaa5392">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/gurkiratjap">
+  <a href="https://x.com/japlohat">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:gurkiratjap@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/japlohat">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40"/>
   </a>
 </p>
 
