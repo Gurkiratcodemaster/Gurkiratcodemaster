@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gurkirat</h1>
-<h3 align="center">A Curious Computer Science Student Exploring Software, AI/ML, Web Development & Research</h3>
+<h1>Hi 👋, I'm Gurkirat</h1>
+<h3>A Curious Computer Science Student Exploring Software, AI/ML, Web Development & Research</h3>
 
-<p align="center">
+<p>
   📍 From <b>Jagraon, Punjab, India</b><br>
   🎓 <b>2nd-year CSE student</b><br>
   💡 I explore software, AI/ML, Linux, and web development because I'm genuinely curious — not for showoff.<br>
