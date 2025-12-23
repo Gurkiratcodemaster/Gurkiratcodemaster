@@ -1,88 +1,59 @@
-<h1>Hi 👋, I'm Gurkirat</h1>
-<h3>A Curious Computer Science Student Exploring Software, AI/ML, Web Development & Research</h3>
+# Gurkirat Singh 👋
 
-<p>
-  📍 From <b>Jagraon, Punjab, India</b><br>
-  🎓 <b>2nd-year CSE student</b><br>
-  💡 I explore software, AI/ML, Linux, and web development because I'm genuinely curious — not for showoff.<br>
-</p>
+### Computer Science & Engineering Student  
+🚀 Software • 🤖 AI/ML • 🌐 Web • 🐧 Systems
 
----
-
-## 🚀 About Me
-I’m a learner who enjoys understanding technology and building things that solve real problems.
-
-- 🌐 Interested in **Web Development (Next.js, React)**  
-- 🧠 Exploring **AI/ML** and building projects with ML models  
-- 🐧 Curious about **Linux** & open-source culture  
-- 💻 Programming languages I use: **C++**, **Python**, **C#**, **HTML**, **CSS**, **JavaScript**  
-- 🧩 Improving my **DSA skills** consistently on LeetCode  
-- 🎓 Completed the **Microsoft × FreeCodeCamp C# Certification course**  
-- 🏅 **Oracle AI/ML Certified**  
-- 🔬 Interested in general **research** and exploring new ideas  
-- ❤️ I like building things that help people in real life
+📍 Jagraon, Punjab, India  
+🎓 2nd-year CSE student  
 
 ---
 
-## 🧩 Projects I’ve Worked On
-Here are some meaningful projects I’ve built:
-
-- 🎓 **Career Choice Guidance System** – helps students pick suitable career paths  
-- 📝 **Smart Notes Finder** – search, organize & store study notes easily  
-- ❤️ **Heart Disease Detection Model** – built using an AI/ML classifier  
-- 🌐 **Web Development Projects** using Next.js / React  
-- 🤖 **AI/ML Experiments & Mini Models**  
-
-More projects coming soon as I explore & learn more.
+## 🧠 Profile
+Computer Science student focused on understanding how software systems work — from algorithms and data structures to scalable web applications and machine learning models. I value strong fundamentals, clean design, and building solutions that address real-world problems.
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,html,css,js,react,nextjs,linux,git,github,vscode,visualstudio,firebase" />
-</p>
-
----
-
-## 📈 My LeetCode Progress  
-I am consistently practicing DSA to build strong problem-solving skills.
-
-<p align="center">
-  <a href="https://leetcode.com/u/gurkiratsingh7/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
-  </a>
-</p>
-
+## 🎯 Core Interests
+- 🌐 Building modern web applications with **React & Next.js**  
+- 🤖 Applying **AI/ML** concepts through hands-on projects  
+- 🐧 Exploring **Linux, system-level concepts, and open-source software**  
+- 🧩 Strengthening **problem-solving skills** using DSA  
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/gurkirat-singh-lohat-96aaa5392">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/japlohat">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:gurkiratjap@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/japlohat">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40"/>
-  </a>
-</p>
+## 🛠️ Technical Skills
+- **Languages:** C++, Python, C#, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** React, Next.js  
+- **Tools & Platforms:** Linux, Git, GitHub, VS Code, Visual Studio, Firebase  
 
 ---
 
-## ✨ What Drives Me
-I love solving real problems and building software that makes life easier.  
-My motivation comes from **curiosity**, learning new things, and exploring how technology can help people.
+## 🧩 Selected Projects
+- 🎓 **Career Choice Guidance System** — Data-driven tool to help students explore suitable career paths.  
+- 📝 **Smart Notes Finder** — Organized note management and fast search for academic content.  
+- ❤️ **Heart Disease Detection Model** — Machine learning model for early health risk assessment.  
+- 🌐 **Web Applications** — Responsive apps built using React and Next.js.
 
 ---
 
-⭐ **Thanks for visiting my profile — feel free to explore my repositories!**
+## 📜 Certifications
+- 🏅 **Microsoft × FreeCodeCamp — C# Certification**  
+- 🏅 **Oracle — AI/ML Certification**
+
+---
+
+## 📈 Problem Solving
+Actively improving algorithmic thinking through consistent DSA practice on LeetCode:  
+👉 https://leetcode.com/u/gurkiratsingh7/
+
+---
+
+## 🤝 Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/gurkirat-singh-lohat-96aaa5392  
+- 🐦 Twitter (X): https://x.com/japlohat  
+- 📧 Email: gurkiratjap@gmail.com  
+- 📸 Instagram: https://instagram.com/japlohat  
+
+---
+
+✨ *Focused on building strong fundamentals, writing meaningful software, and growing with purpose.*
