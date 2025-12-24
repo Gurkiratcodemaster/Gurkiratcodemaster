@@ -49,11 +49,9 @@ Actively improving algorithmic thinking through consistent DSA practice on LeetC
 ---
 
 ## 🤝 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/gurkirat-singh-lohat-96aaa5392  
-- 🐦 Twitter (X): https://x.com/japlohat  
-- 📧 Email: gurkiratjap@gmail.com  
-- 📸 Instagram: https://instagram.com/japlohat  
-
+- 💼 LinkedIn: [Gurkirat Singh](https://www.linkedin.com/in/gurkirat-singh-lohat-96aaa5392)  
+- 🐦 Twitter (X): [Gurkirat Singh](https://x.com/japlohat)  
+- 📧 Email: gurkiratjap@gmail.com
 ---
 
 ✨ *Focused on building strong fundamentals, writing meaningful software, and growing with purpose.*
