@@ -43,14 +43,14 @@ Computer Science student focused on understanding how software systems work — 
 
 ## Problem Solving
 Actively improving algorithmic thinking through consistent DSA practice on LeetCode:  
-👉https://leetcode.com/u/gurkiratsingh7/
+👉 [leetcode](https://leetcode.com/u/gurkiratsingh7/)
 
 ---
 
-## 🤝 Connect
+## Connect
 - LinkedIn: [Gurkirat Singh](https://www.linkedin.com/in/gurkirat-singh-lohat-96aaa5392)  
 - Twitter (X): [Gurkirat Singh](https://x.com/japlohat)  
-- ✉️ Email: gurkiratjap@gmail.com
+- Email: gurkiratjap@gmail.com
 ---
 
 ✨ *Focused on building strong fundamentals, writing meaningful software, and growing with purpose.*
