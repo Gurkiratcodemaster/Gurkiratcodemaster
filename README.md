@@ -3,7 +3,7 @@
 ### Computer Science & Engineering Student  
 Software • AI/ML • Web • Systems
 
-📍 Jagraon, Punjab, India<br>
+🏡 Jagraon, Punjab, India<br>
 🎓 2nd-Year Computer Science & Engineering Student
 
 ## 🧑‍💻 About Me
