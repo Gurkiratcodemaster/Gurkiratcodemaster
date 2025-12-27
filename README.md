@@ -12,18 +12,18 @@ I am a Computer Science and Engineering student passionate about understanding h
 I enjoy learning by building projects, exploring Linux and system-level concepts, and continuously improving my problem-solving skills.
 
 
-## 🚀 Interests
+## 🌀 Interests
 - Building modern web applications with **React & Next.js**  
 - Applying **AI/ML** concepts through hands-on projects  
 - Exploring **Linux, system-level concepts, and open-source software**  
 - Strengthening **problem-solving skills** using DSA  
 
-## 🛠️ Technical Skills
+## 🛡️ Technical Skills
 - **Languages:** C++, Python, C#, JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** React, Next.js  
 - **Tools & Platforms:** Linux, Git, GitHub, VS Code, Visual Studio, Firebase  
 
-## 📌 Projects
+## 📂 Projects
 - **Career Choice Guidance System** — Data-driven tool to help students explore suitable career paths.  
 - **Smart Notes Finder** — Organized note management and fast search for academic content.  
 - **Heart Disease Detection Model** — Machine learning model for early health risk assessment.  
