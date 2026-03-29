@@ -24,23 +24,19 @@ I enjoy learning by building projects, exploring Linux and system-level concepts
 - **Tools & Platforms:** Linux, Git, GitHub, VS Code, Visual Studio, Firebase  
 
 ## 📂 Projects
-- **Career Choice Guidance System** — Data-driven tool to help students explore suitable career paths.  
-- **Smart Notes Finder** — Organized note management and fast search for academic content.  
 - **Heart Disease Detection Model** — Machine learning model for early health risk assessment.  
 - **Web Applications** — Responsive apps built using React and Next.js.
 
 ## 🎓 Certifications
-- **Microsoft × FreeCodeCamp — C# Certification**  
 - **Oracle — AI/ML Certification**
 
 
 ## 🧠 Problem Solving
 Actively improving algorithmic thinking through consistent DSA practice on LeetCode:  
-🔗 [leetcode](https://leetcode.com/u/gurkiratsingh7/)
+🔗 [leetcode](https://leetcode.com/u/gurkiratsingh78/)
 
 
 ## 📫 Connect
-- LinkedIn: [Gurkirat Singh](https://www.linkedin.com/in/gurkirat-singh-lohat-96aaa5392)  
 - Email: gurkiratjap@gmail.com
 ---
 
