@@ -1,74 +1,111 @@
-# Gurkirat Singh Lohat
+# Hi, I'm Gurkirat Singh Lohat ✌️
 
-B.Tech Computer Science and Engineering student with a focus on software development, AI/ML applications, and full-stack engineering. Actively building projects at the intersection of machine learning and practical software solutions.
+> *Beginner • Learner • Builder • Happy to be here 😄*
+
+I'm a B.Tech Computer Science student who enjoys building things, solving problems, and learning something new every day. Most of my time goes into C++, DSA, AI/ML, and creating projects.
+
+I believe every bug teaches something, every project is progress, and every day is a chance to improve.
+
+---
+
+## About Me
+
+* Computer Science student
+* Learning one commit at a time
+* Building projects with AI/ML and web technologies
+* Enjoy open source, Linux, and good conversations
+* Always curious, always learning ✌️
 
 ---
 
 ## Education
 
 **Guru Nanak Dev Engineering College, Ludhiana**
-B.Tech — Computer Science and Engineering
+
+**B.Tech — Computer Science & Engineering**
 
 | Semester | SGPA |
-|----------|------|
-| 1st | 8.60 |
-| 2nd | 8.86 |
-| 3rd | 7.67 |
+| :------: | :--: |
+|    1st   | 8.60 |
+|    2nd   | 8.86 |
+|    3rd   | 7.67 |
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages:** C++, Python
+**Languages**
 
-**Frameworks & Libraries:** Next.js, LangChain
+* C++
+* Python
 
-**Tools:** Git, GitHub, Linux
+**Frameworks & Libraries**
 
-**Core Concepts:** Data Structures and Algorithms, Problem Solving
+* Next.js
+* LangChain
+
+**Tools**
+
+* Git
+* GitHub
+* Linux
+
+**Currently Learning**
+
+* Machine Learning
+* AI Applications
+* Better Software Engineering
 
 ---
 
 ## Projects
 
-**Heart Disease Predictor**
-Machine learning-based clinical prediction system. Trained on real-world datasets using concepts from certified ML coursework.
+### Heart Disease Predictor
 
-**Resume Analyzer**
-Automated resume parsing and insight generation tool. Built during the Gitgrade Online Hackathon.
+Machine learning model trained on clinical datasets to predict heart disease risk.
 
-**LeetCode Suggestions**
-DSA problem recommendation system offering personalized guidance for competitive programmers.
+### Resume Analyzer
+
+Built during the GitGrade Online Hackathon to analyze resumes and generate useful insights.
+
+### LeetCode Suggestions
+
+A project that recommends DSA problems based on learning progress.
 
 ---
 
 ## Achievements
 
-- Solved 200+ DSA problems on LeetCode
-- Completed Kaggle — Intro to Machine Learning
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- Participated in multiple hackathons including national-level competitions
+* Solved **250+** LeetCode problems
+* Kaggle — Intro to Machine Learning
+* Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+* Participated in multiple hackathons
 
 ---
 
 ## Hackathons
 
-| Hackathon | Level | Project |
-|-----------|-------|---------|
-| Hacknauts | National | Smart Notes Finder |
-| Gitgrade | Online | Resume Analyzer |
-| Think-A-Thon | College | Scholars Mind |
+| Hackathon    | Project            |
+| ------------ | ------------------ |
+| Hacknauts    | Smart Notes Finder |
+| GitGrade     | Resume Analyzer    |
+| Think-A-Thon | Scholars Mind      |
 
 ---
 
-## Profiles
+## Find Me Here
 
-- GitHub: [Gurkiratcodemaster](https://github.com/Gurkiratcodemaster)
-- LeetCode: [gurkiratsingh78](https://leetcode.com/u/gurkiratsingh78/)
-- LinkedIn: [Gurkirat Singh Lohat](https://www.linkedin.com/in/gurkirat-singh-lohat-ab493a3bb/)
+* GitHub → https://github.com/Gurkiratcodemaster
+* LeetCode → https://leetcode.com/u/gurkiratsingh78/
 
 ---
 
 ## Interests
 
-Artificial Intelligence · Full Stack Development · Linux · Open Source
+AI • Machine Learning • Open Source • Linux • Full Stack Development • Problem Solving
+
+---
+
+### A small reminder I like to keep around
+
+> **Keep learning. Keep building. Keep smiling. 😄✌️**
