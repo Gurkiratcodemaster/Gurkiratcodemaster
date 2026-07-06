@@ -1,20 +1,15 @@
-# Hi, I'm Gurkirat Singh Lohat ✌️
+# Hi, I'm Gurkirat Singh Lohat
 
-> *Beginner • Learner • Builder • Happy to be here 😄*
-
-I'm a B.Tech Computer Science student who enjoys building things, solving problems, and learning something new every day. Most of my time goes into C++, DSA, AI/ML, and creating projects.
-
-I believe every bug teaches something, every project is progress, and every day is a chance to improve.
+Computer Science undergraduate with an interest in Data Structures & Algorithms, AI/ML, and software development. I enjoy solving problems, building practical projects, and continuously improving my skills.
 
 ---
 
 ## About Me
 
-* Computer Science student
-* Learning one commit at a time
-* Building projects with AI/ML and web technologies
-* Enjoy open source, Linux, and good conversations
-* Always curious, always learning ✌️
+* B.Tech Computer Science & Engineering student
+* Focused on C++, DSA, AI/ML, and software development
+* Interested in open source and Linux
+* Always learning through projects and problem solving
 
 ---
 
@@ -22,7 +17,7 @@ I believe every bug teaches something, every project is progress, and every day 
 
 **Guru Nanak Dev Engineering College, Ludhiana**
 
-**B.Tech — Computer Science & Engineering**
+**B.Tech – Computer Science & Engineering**
 
 | Semester | SGPA |
 | :------: | :--: |
@@ -34,27 +29,27 @@ I believe every bug teaches something, every project is progress, and every day 
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
 * C++
 * Python
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
 * Next.js
 * LangChain
 
-**Tools**
+### Tools
 
 * Git
 * GitHub
 * Linux
 
-**Currently Learning**
+### Currently Learning
 
 * Machine Learning
 * AI Applications
-* Better Software Engineering
+* Software Engineering
 
 ---
 
@@ -66,7 +61,7 @@ Machine learning model trained on clinical datasets to predict heart disease ris
 
 ### Resume Analyzer
 
-Built during the GitGrade Online Hackathon to analyze resumes and generate useful insights.
+Developed during the GitGrade Online Hackathon to analyze resumes and generate insights.
 
 ### LeetCode Suggestions
 
@@ -76,9 +71,9 @@ A project that recommends DSA problems based on learning progress.
 
 ## Achievements
 
-* Solved **250+** LeetCode problems
-* Kaggle — Intro to Machine Learning
+* Solved 250+ LeetCode problems
 * Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+* Kaggle – Intro to Machine Learning
 * Participated in multiple hackathons
 
 ---
@@ -93,19 +88,22 @@ A project that recommends DSA problems based on learning progress.
 
 ---
 
-## Find Me Here
+## Profiles
 
-* GitHub → https://github.com/Gurkiratcodemaster
-* LeetCode → https://leetcode.com/u/gurkiratsingh78/
+* GitHub: https://github.com/Gurkiratcodemaster
+* LeetCode: https://leetcode.com/u/gurkiratsingh78/
 
 ---
 
 ## Interests
 
-AI • Machine Learning • Open Source • Linux • Full Stack Development • Problem Solving
+* Artificial Intelligence
+* Machine Learning
+* Open Source
+* Linux
+* Full-Stack Development
+* Problem Solving
 
 ---
 
-### A small reminder I like to keep around
-
-> **Keep learning. Keep building. Keep smiling. 😄✌️**
+> *Keep learning. Keep building.*
